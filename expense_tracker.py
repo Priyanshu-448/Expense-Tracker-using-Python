@@ -1,6 +1,5 @@
 # ============================================
 # Expense Tracker
-# Author: Alizae Brown
 # Description: A simple command-line expense
 # tracker to log, categorize, and summarize
 # personal expenses. Built as part of my
